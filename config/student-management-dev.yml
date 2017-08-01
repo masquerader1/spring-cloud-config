@@ -9,4 +9,4 @@ jdbc:
 mybatis:
   typeAliasesPackage: com.albert.app.model
   mapperLocations: classpath:mapper/*.xml
-testp: pppppp888
+testp: pppppp9999
